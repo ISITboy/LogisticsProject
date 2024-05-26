@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_rout">#6A6A6A</color>
+    <color name="color_border_rout">#000000</color>
+    <color name="light_blue">#3AA2FF</color>
+
+
+
+    <color name="gray">#7C7C7C</color>
+    <color name="background_search_layout">#FFE2B5</color>
+    <color name="background_card_route_info">#B0D1B890</color>
+    <color name="background_search_text">#B0E6DAC6</color>
+    <color name="progressbar_color">#FFA200</color>
+    <color name="background_color_error_layout">#B9FF3A3A</color>
+
+    <color name="background_splash_screen">#FFE7BD</color>
+    <color name="splash_color">#FFA200</color>
+
+    <color name="background_splash_start">#FFC83C</color>
+    <color name="background_splash_end">#FFF38C</color>
+    <color name="background_sign_in_button">#92D875</color>
+
+
+    <color name="main_layout_background">#8597FF</color>
+    <color name="card_view_background">#A7B4FF</color>
+    <color name="card_view_item_background">#8597FF</color>
+    <color name="card_border_color">#C5CEFF</color>
+
+
+
+    <color name="red">#B80909</color>
+    <color name="base_theme">#45BC14</color>
+    <color name="transparent">#57302D2D</color>
+</resources>

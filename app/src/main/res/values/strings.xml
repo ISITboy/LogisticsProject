@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Diploma</string>
+    <string name="map_tab">Map</string>
+    <string name="manager_tab">Manager</string>
+    <string name="account_tab">Account</string>
+    <string name="input_placeholder">Input text</string>
+
+
+    <string name="navigation_item_profile">Профиль</string>
+    <string name="navigation_item_menu">Меню</string>
+
+    <string name="text_input_email">Введите email*</string>
+    <string name="text_input_password">Введите пароль*</string>
+    <string name="text_input_name">Введите имя</string>
+    <string name="text_input_surname">Введите фамилию*</string>
+    <string name="text_input_organization">Введите организацию</string>
+
+    <string name="header_registration_screen">Регистрация</string>
+    <string name="header_authorization_screen">Авторизация</string>
+
+
+    <string name="producer">Грузоотправители</string>
+    <string name="consignees">Грузополучатели</string>
+    <string name="route">Маршрут</string>
+
+
+    <string name="auth_error_message">Error</string>
+    <string name="login_error">Email is incorrect</string>
+    <string name="name_error">Name should be at list 2 signs</string>
+    <string name="password_error_same">Passwords should be the same</string>
+    <string name="password_error">Passwords is incorrect</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="check_password">Check Password</string>
+    <string name="home_text">Your application may be here</string>
+
+
+    <string name="toolbar_title_profile">Profile</string>
+</resources>
